@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi there 👋  
+My name is James, and I'm:
+- A human
+- A web developer
+- A long distance hiker/runner
+- Afraid of snakes
 
-<!--
-**JamesLCarpino/JamesLCarpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm constantly ready to dive into any project that piques my interests, and I'm interested in everything.
 
-My name is James, and I'm a full stack developer! If I tried to breakdown my trajectory to this point in emojis it would look like this:
+Want to connect in the vast of the digital sea?
 
-- ⚡ Fun fact: ... I'm a huge fan of wearing short shorts and am a long distance hiker/runner.
--->
+  - :mailbox_with_mail: : [JamesLCarpino@gmail.com](jameslcarpino@gmail.com)
+  
+  - :link: : [Linkedin](linkedin.com/in/jameslcarpino)
+
+
+
+
