@@ -1,4 +1,4 @@
-### Hi there 👋   I'm James!
+### Hi there I'm James! :wave:
 
 Human | Web developer | Long distance hiker/runner | Afraid of snakes 
 
