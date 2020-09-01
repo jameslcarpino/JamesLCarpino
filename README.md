@@ -8,7 +8,7 @@ Want to connect in the vast of this digital sea?
 
   - :mailbox_with_mail: : [JamesLCarpino@gmail.com](jameslcarpino@gmail.com)
   
-  - :pencil: : [Dev] (https://dev.to/jameslcarpino)
+  - :pencil: : [Dev](https://dev.to/jameslcarpino)
   
   - :link: : [Linkedin](linkedin.com/in/jameslcarpino)
 
