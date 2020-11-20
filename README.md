@@ -10,7 +10,7 @@ Want to connect in the vast of this digital sea?
   
   - :pencil: : [Dev](https://dev.to/jameslcarpino)
   
-  - :link: : [Linkedin](linkedin.com/in/jameslcarpino)
+  - :link: : [Linkedin](linkedin.com/in/jameslcarpino) || [Portfolio](jameslcarpino.com)
 
 
 
