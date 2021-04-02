@@ -2,9 +2,8 @@
 
 Human | Long distance hiker/runner | Afraid of snakes | Lover of puzzles
 
-I'm constantly ready to dive into any project that piques my interests, and I'm interested in everything.
 
-Want to connect in the vast of this digital sea?
+Want to connect?
 
   - :mailbox_with_mail: : [JamesLCarpino@gmail.com](https://jameslcarpino@gmail.com)
   
