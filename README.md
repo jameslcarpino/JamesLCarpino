@@ -9,7 +9,7 @@ Want to connect?
   
   - :round_pushpin: [Portfolio](https://www.jameslcarpino.com)
   
-  - :link: : [Linkedin](https://www.linkedin.com/in/jameslcarpino) || 
+  - :link: : [Linkedin](https://www.linkedin.com/in/jameslcarpino) 
 
 
 
