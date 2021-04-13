@@ -7,10 +7,9 @@ Want to connect?
 
   - :mailbox_with_mail: : [JamesLCarpino@gmail.com](https://jameslcarpino@gmail.com)
   
-  - :pencil: : [Dev](https://dev.to/jameslcarpino)
+  - :round_pushpin: [Portfolio](https://www.jameslcarpino.com)
   
-  - :link: : [Linkedin](https://www.linkedin.com/in/jameslcarpino) || [Portfolio](https://www.jameslcarpino.com)
-
+  - :link: : [Linkedin](https://www.linkedin.com/in/jameslcarpino) || 
 
 
 
