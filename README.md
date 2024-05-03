@@ -5,11 +5,11 @@ Human | Long distance hiker/runner | Afraid of snakes | Lover of puzzles
 
 Want to connect?
 
-  - :mailbox_with_mail: : [JamesLCarpino@gmail.com](https://jameslcarpino@gmail.com)
+  - :mailbox_with_mail: : [jameslcarpino@gmail.com](https://jameslcarpino@gmail.com)
   
-  - :round_pushpin: : [Portfolio](https://www.jameslcarpino.com)
+  - :round_pushpin: : [website](https://www.jameslcarpino.com)
   
-  - :link: : [Linkedin](https://www.linkedin.com/in/jameslcarpino) 
+  - :link: : [linkedin](https://www.linkedin.com/in/jameslcarpino) 
 
 
 
