@@ -1,6 +1,6 @@
 ### Hi there I'm James! :wave:
 
-Human | Long distance hiker/runner | Afraid of snakes | Lover of puzzles
+Human
 
 
 Want to connect?
